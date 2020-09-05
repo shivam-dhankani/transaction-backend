@@ -1,0 +1,1 @@
+module.exports =   mongoose.connect(`mongodb://localhost/transaction`);  
